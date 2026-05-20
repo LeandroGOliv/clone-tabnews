@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+    // depreciado porque o TS não quer mais ser o responsável por resolver imports paths sozinho, quem vai assumir isso agora são os bundlers(vite e etc) e o node
+  }
+}
